@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -n -t: +0
+sort -n -t: +1
