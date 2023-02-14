@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -g -t : -k 3
+sort -t: -k1,1
