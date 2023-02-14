@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -n -t: +1
+sort -n -t':' -k3
